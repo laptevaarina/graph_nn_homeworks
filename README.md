@@ -1,1 +1,2 @@
-# graph_nn_homeworks
+# GraphNN homeworks
+Курс по графовым нейронным сетям - весна 2025 года
